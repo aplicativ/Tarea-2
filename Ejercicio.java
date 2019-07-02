@@ -7,5 +7,6 @@
   num=lee.nextFloat();
   System.out.println("Ingrese el denominador");
   den=lee.nextFloat();
+   
 }
 }
