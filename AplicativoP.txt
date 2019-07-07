@@ -1,0 +1,26 @@
+  public class Aplicativ{
+  
+public Static void main(String[]args){
+ string n, a,d;
+ float e;
+
+scanner lee=new sacanner(System.String );
+ System.out.println(ingrese nombre);
+ n=lee.next.String();
+
+scanner lee=new sacanner(System.String );
+ System.out.println(ingrese apellido);
+ n=lee.next.String();
+
+scanner lee=new sacanner(System.String );
+ System.out.println(ingrese direccion);
+ n=lee.next.String();
+
+scanner lee=new sacanner(System.float );
+ System.out.println(ingrese edad);
+ n=lee.next.float();
+}
+Persona obj=new Persona(n,a,d,e);
+obj1.imprimirDatos;
+
+}
