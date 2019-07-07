@@ -1,0 +1,48 @@
+  public class Persona{
+
+ private String nombre;
+ private String apellido ;
+ private String direccion;
+ private float edad;
+
+public  Persona{String nombre,String apellido,String direccion,float edad){
+  this.nombre=nombre;
+  this.apellido=apellido;
+  this.direccion=direccion;
+  this.edad=edad;
+
+}
+ 
+
+public void setnombre(String nombre){
+  nombre=nombre;
+}
+
+
+public void setapellido(String apellido){
+  apellido=apellido;
+
+}
+
+public void setdireccion(String direccion){
+  direccion=direccio;
+
+
+}
+public void setedad(float eada){
+  edad=edad;
+}
+public Sring get nombre(){
+ return nombre;
+}
+public Sring get apellido(){
+ return apellido;
+}
+public Sring get direccion(){
+ return direccion ;
+}
+public float get edad(){
+ return edad;
+}
+}
+
