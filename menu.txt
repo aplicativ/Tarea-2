@@ -1,0 +1,10 @@
+ 
+
+public void imprimirDatos(){
+
+System.out.println(get nombre);
+System.out.println(get apellido);
+System.out.println(get direccion);
+System.out.println(get edad);
+
+}
