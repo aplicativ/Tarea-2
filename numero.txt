@@ -1,0 +1,10 @@
+ // Blanca Chanataxi//
+// Sistemas Nocturno//
+
+ public void .imprimirDatos(){
+ System.out.println(get n1);
+ System.out.println(get n2);
+
+System.out.println("el n1 "+Numero+" sumado +n2 es: ");
+System.out.println("\n sumado es: ");
+}
